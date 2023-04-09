@@ -17,19 +17,19 @@ let products = [
     {
         id: 1,
         name: 'CHICKEN BIRIYANI',
-        image: 'plate1.PNG',
+        image: 'plate1.png',
         price: 250
     },
     {
         id: 2,
         name: 'NORTH INDIAN MEAL',
-        image: 'plate2.PNG',
+        image: 'plate2.png',
         price: 80
     },
     {
         id: 3,
         name: 'MASALA DOSA',
-        image: 'plate3.PNG',
+        image: 'plate3.png',
         price: 50
     },
     {
